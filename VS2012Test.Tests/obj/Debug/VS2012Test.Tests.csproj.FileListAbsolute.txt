@@ -1,0 +1,8 @@
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test.Tests\bin\Debug\VS2012Test.Tests.dll.config
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test.Tests\bin\Debug\VS2012Test.Tests.dll
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test.Tests\bin\Debug\VS2012Test.Tests.pdb
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test.Tests\bin\Debug\VS2012Test.exe
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test.Tests\bin\Debug\VS2012Test.pdb
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test.Tests\obj\Debug\VS2012Test.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test.Tests\obj\Debug\VS2012Test.Tests.dll
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test.Tests\obj\Debug\VS2012Test.Tests.pdb

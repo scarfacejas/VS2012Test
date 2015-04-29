@@ -1,0 +1,16 @@
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\bin\Release\VS2012Test.exe.config
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\bin\Release\VS2012Test.exe
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\bin\Release\VS2012Test.pdb
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\obj\Release\VS2012Test.csprojResolveAssemblyReference.cache
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\obj\Release\VS2012Test.Properties.Resources.resources
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\obj\Release\VS2012Test.csproj.GenerateResource.Cache
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\obj\Release\VS2012Test.exe
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\obj\Release\VS2012Test.pdb
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\VS2012Test\bin\Release\VS2012Test.exe.config
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\VS2012Test\bin\Release\VS2012Test.exe
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\VS2012Test\bin\Release\VS2012Test.pdb
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\VS2012Test\obj\Release\VS2012Test.csprojResolveAssemblyReference.cache
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\VS2012Test\obj\Release\VS2012Test.Properties.Resources.resources
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\VS2012Test\obj\Release\VS2012Test.csproj.GenerateResource.Cache
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\VS2012Test\obj\Release\VS2012Test.exe
+C:\Users\jason.smith\Documents\Personal\Dev\VS2012Test\VS2012Test\obj\Release\VS2012Test.pdb
